@@ -1,4 +1,4 @@
-Caption:This is my first program that me aploading on GitHub!!
+Caption:This is my first program Which me aploading on GitHub!!
 Table.c:
 This is tiny program shows multiple table thatr enter by user
 Syantaxs: 
