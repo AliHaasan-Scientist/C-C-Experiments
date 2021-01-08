@@ -4,6 +4,7 @@ Programer:Roy Ali Hasan
 Date:01/07/2021
 Program: Print table Any num
 Copiler:MinGw-64bit Architecture
+IDE:Visual Stdio Code
 Detail:
 */
 #include <stdio.h>
