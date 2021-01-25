@@ -1,5 +1,5 @@
 # Repository Information:
-This Repositery Based On C- Languagfe.
+This Repositery Based On C- Language.
 In which i'am learning  procedural paradigm,
 Function , stutured Programing rule,Object Orientation
 (OOP's) Concept.
